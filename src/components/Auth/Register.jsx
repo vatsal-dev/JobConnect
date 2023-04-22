@@ -141,6 +141,7 @@ const Register = ({ setOpenLogin }) => {
           </div>
 
           <button
+            onClick={() => onSubmit()}
             type='submit'
             className={`w-full rounded-lg bg-[#312ECB] px-5 ${
               isLoading ? 'py-1' : 'py-3'
