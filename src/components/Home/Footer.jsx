@@ -29,13 +29,13 @@ const Footer = () => {
 
               <nav className="mt-8">
                 <ul className="space-y-4 text-sm text-white">
-                  <li>Company History</li>
+                  <li>Vatsal Chawla</li>
 
-                  <li>Meet the Team</li>
+                  <li>Arin Kothari</li>
 
-                  <li>Employee Handbook</li>
+                  <li>Yajat Mehta</li>
 
-                  <li>Careers</li>
+                  <li>Jyoti Dixit</li>
                 </ul>
               </nav>
             </div>
@@ -44,13 +44,13 @@ const Footer = () => {
               <p className="text-lg font-medium text-white">Features</p>
               <nav className="mt-8">
                 <ul className="space-y-4 text-sm text-white">
-                  <li>Company History</li>
+                  <li>A portal for employers and job seekers</li>
 
-                  <li>Meet the Team</li>
+                  <li>Filter jobs by search</li>
 
-                  <li>Employee Handbook</li>
+                  <li>Quickly apply using your Resume</li>
 
-                  <li>Careers</li>
+                  <li>Boost your Career</li>
                 </ul>
               </nav>
             </div>
